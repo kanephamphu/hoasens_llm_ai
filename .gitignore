@@ -1,0 +1,4 @@
+my_finetuned_gpt2/*
+my_finetuned_gpt2_datasets/*
+my_finetuned_gpt2_tokenizer/*
+results/*
